@@ -1,502 +1,419 @@
-Mês,Idade,Cidade,Produto,Preço,Quantidade,Dia,Ano
-5,48,FO,Tablet,2010.87,7,30,2024
-4,42,RJ,Teclado,2835.95,6,12,2025
-12,54,RJ,Monitor,3619.29,2,10,2022
-12,62,CR,Teclado,40415.9,8,31,2022
-9,60,CR,Notebook,716.66,8,14,2023
-2,18,SA,Headset,2388.44,8,23,2024
-2,61,PA,Headset,2363.09,4,28,2025
-1,21,SP,Monitor,2080.54,10,1,2024
-12,65,CR,Tablet,4229.63,3,26,2023
-5,36,MA,Notebook,3101.25,7,18,2024
-11,32,BH,Headset,1515.12,1,21,2023
-7,40,CR,Mouse,4096.38,4,24,2023
-11,30,FO,Monitor,2835.95,1,16,2023
-3,61,MA,Smartphone,2835.95,3,14,2023
-1,67,FO,Tablet,971.26,10,29,2024
-6,26,SP,Smartphone,4495.69,10,9,2024
-3,58,RJ,Tablet,837.51,3,10,2024
-11,37,FO,Mouse,4901.19,3,12,2023
-11,20,SP,Notebook,4933.74,9,13,2023
-2,64,FO,Monitor,3670.27,1,29,2024
-10,36,SA,Teclado,3441.36,10,15,2024
-2,44,MA,Teclado,2453.9,3,10,2023
-9,26,PA,Notebook,2835.95,1,7,2024
-4,41,SA,Smartphone,4884.79,3,22,2024
-2,35,RJ,Teclado,2993.51,5,23,2024
-1,34,MA,Monitor,2930.56,3,8,2025
-5,48,BH,Notebook,1838.3,9,27,2023
-5,36,SA,Notebook,2268.06,7,29,2025
-6,39,MA,Mouse,2709.27,10,2,2024
-10,47,SP,Mouse,2835.95,10,17,2024
-8,27,SA,Notebook,2835.95,1,19,2024
-7,32,MA,Smartphone,4207.54,5,2,2024
-12,64,CR,Notebook,2661.48,2,5,2024
-3,43,MA,Headset,1431.29,4,22,2025
-10,69,CR,Tablet,4896.76,8,22,2024
-8,23,FO,Headset,1019.79,10,18,2025
-8,18,SA,Smartphone,2619.25,8,28,2025
-3,25,FO,Smartphone,1692.52,8,11,2024
-5,61,SA,Mouse,2243.87,3,17,2023
-7,34,FO,Notebook,2216.5,4,14,2023
-4,70,SA,Monitor,700.78,7,13,2023
-4,41,MA,Mouse,1685.3,10,11,2025
-9,32,CR,Teclado,3039.11,3,10,2024
-11,57,FO,Teclado,3634.12,10,8,2024
-5,53,PA,Teclado,3506.64,3,5,2024
-2,57,PA,Headset,2362.94,10,28,2024
-8,22,BH,Smartphone,1523.81,9,20,2025
-9,47,FO,Tablet,2835.95,5,24,2023
-1,37,RJ,Smartphone,2851.62,3,27,2023
-4,25,MA,Headset,3591.81,6,12,2024
-1,20,MA,Teclado,3077.21,8,2,2023
-7,49,FO,Tablet,1844.83,10,17,2023
-4,33,FO,Tablet,4342.73,10,27,2024
-10,26,SA,Mouse,2835.95,2,26,2024
-8,41,SA,Notebook,2825.68,4,19,2025
-7,65,SP,Monitor,4922.4,7,6,2023
-6,52,CR,Tablet,4771.65,7,14,2024
-6,65,RJ,Notebook,4770.78,3,3,2023
-11,44,BH,Monitor,1453.51,2,2,2024
-12,49,BH,Teclado,692.04,1,26,2023
-1,35,MA,Notebook,3574.06,4,4,2025
-6,44,SA,Smartphone,4201.54,9,5,2023
-8,46,FO,Smartphone,3177.71,9,21,2025
-2,33,SP,Mouse,3771.96,7,14,2024
-8,24,RJ,Monitor,891.62,3,11,2024
-2,41,SA,Notebook,2984.24,10,16,2025
-7,59,SP,Headset,2838.6,2,3,2024
-3,43,BH,Notebook,555.64,3,9,2023
-2,25,BH,Headset,3144.09,8,1,2024
-6,70,SP,Mouse,1006.33,10,7,2024
-7,60,PA,Tablet,3049.67,10,20,2024
-12,58,BH,Mouse,4841.74,1,16,2024
-3,19,FO,Mouse,975.36,9,14,2025
-8,39,SP,Tablet,4035.86,9,27,2023
-8,26,RJ,Tablet,4460.61,2,5,2023
-11,31,CR,Notebook,1688.61,2,6,2023
-7,66,MA,Monitor,3074.1,8,25,2024
-5,55,BH,Headset,1274.9,3,3,2023
-8,32,MA,Notebook,3282.1,10,6,2024
-1,27,RJ,Tablet,2307.74,9,15,2025
-12,56,MA,Smartphone,4455.31,1,2,2024
-6,44,BH,Tablet,721.81,7,8,2025
-6,27,CR,Monitor,1708.63,9,22,2024
-11,52,SA,Mouse,2020.4,7,27,2023
-12,29,PA,Tablet,1899.27,6,26,2024
-3,19,CR,Teclado,4362.06,1,17,2024
-7,40,RJ,Monitor,4876.23,9,8,2023
-6,33,BH,Smartphone,1852.16,7,1,2023
-2,19,SA,Headset,3983.14,4,9,2023
-12,21,PA,Tablet,3779.6,8,10,2023
-5,44,FO,Monitor,901.79,7,25,2023
-9,65,FO,Headset,4610.45,6,18,2023
-9,46,SP,Mouse,2680.07,10,27,2023
-11,50,CR,Mouse,2182.6,10,23,2024
-11,46,SP,Smartphone,2835.95,2,10,2024
-11,57,MA,Teclado,795.28,7,3,2023
-7,44,PA,Monitor,2315.23,3,30,2023
-3,60,FO,Mouse,2859.29,5,2,2024
-5,47,FO,Mouse,1281.82,8,23,2023
-11,19,SA,Smartphone,1403.27,4,26,2024
-7,48,BH,Smartphone,2835.95,2,2,2024
-2,45,MA,Notebook,2835.95,5,17,2025
-4,49,CR,Headset,2835.95,10,8,2023
-6,46,MA,Notebook,1395.99,9,19,2025
-2,23,SA,Smartphone,2588.98,7,23,2025
-4,27,RJ,Monitor,4653.83,5,11,2025
-11,35,CR,Tablet,1588.72,4,5,2024
-5,55,RJ,Teclado,2507.47,1,7,2025
-11,38,SA,Mouse,2635.62,1,15,2023
-5,56,BH,Teclado,2049.12,10,19,2024
-12,47,MA,Notebook,1663.97,9,5,2023
-5,45,SA,Tablet,906.76,2,22,2024
-11,62,MA,Notebook,2835.95,9,23,2024
-9,59,MA,Mouse,2835.95,1,11,2023
-11,67,MA,Teclado,4009.24,7,30,2023
-4,31,PA,Headset,1496.08,4,12,2024
-2,32,SP,Mouse,1430.29,6,17,2025
-10,70,FO,Teclado,2809.77,7,4,2024
-8,44,PA,Teclado,4852.12,6,9,2025
-3,38,SP,Tablet,2633.44,2,26,2025
-7,60,RJ,Notebook,1279.4,3,9,2025
-12,27,CR,Smartphone,1506.97,7,10,2022
-2,48,SP,Monitor,4743.52,10,28,2024
-8,23,RJ,Smartphone,3692.16,5,6,2025
-2,24,MA,Headset,4529.67,5,19,2025
-12,41,PA,Headset,2565.49,9,7,2022
-5,53,BH,Notebook,1859.65,7,16,2025
-11,53,PA,Smartphone,3306.23,10,13,2024
-11,60,PA,Teclado,533.06,6,26,2024
-4,40,PA,Tablet,4849.18,10,22,2025
-8,66,BH,Notebook,3026.56,5,27,2023
-6,64,CR,Notebook,1772.05,7,6,2024
-8,36,PA,Smartphone,2667.82,4,15,2023
-8,40,SA,Mouse,1744.17,7,20,2025
-1,50,SP,Monitor,1745.98,9,2,2025
-5,60,MA,Headset,4784.85,9,28,2025
-3,24,PA,Teclado,1347.62,8,27,2025
-8,53,SA,Tablet,1581.36,3,13,2025
-4,66,CR,Headset,2835.95,6,10,2024
-1,32,SA,Teclado,4145.13,9,18,2025
-9,53,RJ,Notebook,1938.14,9,12,2024
-6,70,PA,Monitor,614.55,8,24,2024
-10,61,SP,Notebook,1830.22,5,13,2024
-6,19,RJ,Monitor,2320.7,5,16,2023
-6,60,SP,Smartphone,3123.61,10,2,2023
-4,35,SP,Teclado,4172.07,6,5,2024
-8,44,SP,Mouse,3710.16,7,13,2024
-5,66,SA,Headset,3372.41,3,11,2024
-9,39,SP,Notebook,4733.01,2,15,2023
-6,29,FO,Monitor,1850.88,4,10,2023
-7,54,CR,Monitor,3459.27,8,27,2025
-9,22,CR,Notebook,1822.03,3,24,2024
-6,58,BH,Headset,3834.14,2,7,2025
-4,23,SA,Teclado,30156.399999999998,4,18,2023
-7,31,FO,Smartphone,47611.6,9,22,2023
-12,47,BH,Smartphone,3444.96,7,28,2022
-4,41,PA,Tablet,1504.98,6,1,2025
-7,38,SP,Tablet,2392.13,9,2,2025
-11,54,PA,Mouse,2172.57,10,29,2024
-6,21,CR,Tablet,2586.92,1,26,2023
-7,66,PA,Mouse,741.55,3,23,2024
-6,61,PA,Headset,3111.41,7,16,2025
-2,46,MA,Teclado,2624.99,1,19,2024
-5,49,SA,Mouse,1039.17,2,4,2024
-2,44,BH,Teclado,2884.27,3,24,2025
-2,66,SP,Tablet,4418.82,8,13,2025
-2,40,PA,Tablet,4965.57,10,23,2023
-4,36,BH,Headset,4942.36,7,20,2023
-12,55,FO,Tablet,4939.92,2,15,2024
-5,60,RJ,Smartphone,4380.77,2,15,2023
-8,32,CR,Notebook,863.65,5,3,2024
-5,56,SA,Smartphone,4939.88,4,3,2023
-8,31,PA,Smartphone,761.06,6,16,2025
-4,31,SP,Mouse,1442.22,2,26,2025
-12,66,SA,Mouse,3093.26,10,5,2022
-7,38,SA,Monitor,4033.45,1,4,2023
-8,49,CR,Notebook,1082.33,7,28,2023
-12,29,SP,Smartphone,2432.34,7,17,2024
-7,52,SA,Notebook,2648.3,10,30,2024
-7,50,RJ,Smartphone,2835.95,9,1,2023
-12,60,MA,Headset,3787.97,5,4,2022
-6,22,SA,Headset,4514.03,10,1,2024
-12,65,SA,Tablet,2889.65,1,18,2024
-8,44,FO,Headset,2835.95,3,4,2023
-7,44,CR,Notebook,2835.95,8,25,2025
-2,38,CR,Monitor,1518.2,8,6,2025
-5,54,MA,Tablet,1904.42,1,14,2024
-8,58,MA,Mouse,2765.01,4,7,2023
-7,25,CR,Smartphone,793.79,9,1,2023
-5,38,CR,Headset,2835.95,5,24,2025
-3,57,SP,Tablet,2551.67,4,13,2024
-10,62,SA,Headset,2858.53,1,17,2023
-1,23,SP,Tablet,3590.51,10,27,2025
-5,24,PA,Mouse,4982.63,9,1,2024
-7,55,SA,Notebook,3875.52,9,26,2024
-10,23,PA,Notebook,4581.02,4,1,2023
-12,37,SA,Smartphone,586.06,10,18,2022
-10,32,CR,Mouse,4931.96,3,13,2024
-1,28,MA,Teclado,598.61,1,13,2023
-10,58,MA,Tablet,1054.23,6,2,2024
-3,50,CR,Mouse,4064.57,4,19,2025
-11,67,MA,Teclado,3381.44,1,23,2023
-8,64,SP,Teclado,3304.11,3,14,2023
-7,59,RJ,Monitor,715.82,2,16,2025
-7,33,SP,Notebook,4262.54,5,28,2023
-1,34,PA,Smartphone,2835.95,7,12,2023
-2,56,SA,Mouse,2499.41,6,13,2024
-3,66,BH,Mouse,1637.32,7,13,2024
-4,29,MA,Tablet,1424.73,7,25,2025
-12,58,MA,Smartphone,541.87,10,12,2024
-4,66,SP,Notebook,954.41,4,23,2024
-11,55,PA,Teclado,3302.59,9,14,2023
-10,54,FO,Smartphone,2384.72,1,27,2024
-2,57,FO,Tablet,2802.13,2,6,2025
-8,58,PA,Headset,1772.18,2,24,2024
-3,46,BH,Monitor,2739.83,9,4,2023
-7,46,RJ,Notebook,4000.82,5,6,2025
-3,68,SA,Teclado,4879.04,9,28,2023
-10,21,FO,Tablet,2343.9,10,16,2023
-1,22,FO,Tablet,2966.62,6,17,2025
-12,46,RJ,Mouse,3596.92,6,6,2022
-5,44,PA,Smartphone,1555.27,5,5,2025
-12,36,SA,Notebook,2835.95,4,30,2024
-11,23,SA,Headset,996.94,10,19,2023
-6,50,RJ,Mouse,2723.47,4,10,2024
-9,55,SP,Headset,4007.87,8,30,2024
-8,68,PA,Monitor,3756.09,7,13,2025
-3,20,MA,Teclado,3399.52,10,10,2025
-6,69,SP,Monitor,4897.81,1,7,2023
-11,30,RJ,Smartphone,725.36,5,19,2024
-1,48,PA,Notebook,4433.63,3,8,2024
-4,21,CR,Headset,2120.97,7,28,2025
-7,69,RJ,Notebook,2416.98,9,19,2024
-6,39,SP,Mouse,4330.61,2,12,2023
-12,23,MA,Mouse,543.53,9,23,2024
-8,29,RJ,Smartphone,3412.39,2,19,2025
-12,44,FO,Notebook,4525.37,9,10,2022
-7,46,SP,Notebook,1707.39,5,16,2025
-1,57,CR,Notebook,2176.8,6,11,2024
-6,41,SA,Mouse,1012.24,2,18,2023
-9,42,PA,Mouse,2554.42,9,21,2023
-4,39,FO,Smartphone,3604.56,5,29,2024
-9,21,SA,Smartphone,2397.83,9,24,2023
-12,59,PA,Smartphone,1250.5,10,27,2023
-3,39,CR,Mouse,3768.85,5,23,2025
-8,61,BH,Headset,4299.57,8,13,2024
-7,34,RJ,Tablet,4600.52,7,1,2023
-5,60,CR,Teclado,3060.25,10,29,2025
-12,56,PA,Teclado,3250.95,8,17,2024
-3,39,RJ,Teclado,3251.11,4,20,2025
-4,60,PA,Notebook,4459.78,6,4,2024
-5,40,CR,Monitor,4512.93,8,27,2025
-9,59,FO,Monitor,2696.55,8,26,2023
-12,43,MA,Tablet,2483.1,10,4,2023
-9,63,CR,Mouse,2835.95,1,16,2024
-1,37,PA,Notebook,555.62,8,18,2023
-12,59,PA,Notebook,2861.68,2,10,2022
-7,70,FO,Notebook,3756.98,5,13,2023
-11,62,RJ,Smartphone,4800.93,2,27,2023
-6,65,BH,Teclado,2835.95,7,28,2025
-6,51,BH,Headset,3282.08,4,28,2025
-8,60,CR,Mouse,3769.93,4,29,2024
-11,41,RJ,Smartphone,3486.7,6,7,2023
-3,44,FO,Notebook,1168.95,7,24,2025
-9,31,FO,Mouse,4514.28,6,10,2023
-2,67,RJ,Mouse,552.4,9,26,2024
-6,32,MA,Mouse,2775.05,9,10,2023
-5,27,PA,Tablet,2731.26,1,11,2025
-4,68,RJ,Notebook,3881.44,5,22,2025
-4,67,RJ,Notebook,1989.03,4,16,2024
-1,65,CR,Headset,2781.18,5,2,2025
-10,20,SP,Notebook,2203.87,2,8,2024
-2,67,PA,Smartphone,854.74,7,4,2024
-6,56,SA,Monitor,3078.66,6,13,2023
-11,28,BH,Headset,2743.05,2,7,2023
-7,62,BH,Mouse,4913.02,9,16,2023
-9,69,FO,Teclado,579.96,3,7,2024
-5,64,BH,Headset,661.24,8,27,2023
-2,44,PA,Headset,4216.59,6,27,2023
-6,64,FO,Notebook,4834.27,6,5,2024
-8,46,RJ,Headset,4505.5,4,9,2023
-2,66,SA,Teclado,3445.68,10,12,2025
-8,46,MA,Headset,2033.84,5,7,2025
-9,33,SA,Smartphone,4174.65,3,23,2023
-8,69,BH,Tablet,1993.88,4,7,2024
-8,30,PA,Smartphone,3199.78,8,27,2024
-8,54,PA,Smartphone,2134.83,4,18,2023
-4,47,CR,Tablet,938.47,4,13,2025
-12,67,PA,Tablet,509.89,4,15,2024
-2,51,BH,Headset,3351.48,5,20,2023
-7,28,SA,Smartphone,2964.61,4,19,2025
-4,69,BH,Notebook,978.45,4,19,2024
-9,34,CR,Monitor,2715.9,4,5,2023
-6,48,MA,Monitor,3841.3,4,6,2024
-2,53,SA,Monitor,1644.3,10,3,2024
-10,63,FO,Smartphone,1043.36,6,31,2024
-2,25,PA,Teclado,1470.15,3,20,2024
-9,66,SA,Tablet,1357.6,2,15,2023
-4,46,BH,Headset,3907.17,2,14,2024
-2,27,SP,Headset,2835.95,2,15,2025
-1,23,MA,Monitor,3524.64,8,26,2024
-2,32,SA,Headset,4512.89,10,18,2025
-2,40,FO,Notebook,3151.92,1,19,2024
-9,44,RJ,Notebook,4837.35,9,6,2024
-10,50,PA,Tablet,2835.95,1,1,2024
-8,42,BH,Headset,2989.52,8,10,2023
-5,41,SA,Smartphone,3133.04,6,6,2024
-11,38,BH,Headset,4014.87,10,20,2024
-3,63,PA,Smartphone,3613.18,6,24,2023
-4,68,MA,Teclado,4168.6,8,30,2023
-12,20,PA,Mouse,3458.85,10,24,2023
-2,48,CR,Monitor,1948.3,5,4,2023
-3,26,RJ,Smartphone,2383.99,8,31,2023
-2,48,SA,Teclado,3616.32,3,8,2024
-3,18,CR,Mouse,2290.41,9,17,2025
-6,19,SP,Monitor,1823.78,5,19,2025
-3,27,PA,Mouse,1121.81,7,3,2024
-3,64,CR,Notebook,4488.97,4,23,2025
-5,45,PA,Headset,4293.83,10,25,2024
-10,36,RJ,Mouse,1912.6,3,30,2024
-5,25,SA,Teclado,2991.12,1,12,2023
-12,44,PA,Tablet,1443.71,9,2,2024
-2,68,BH,Headset,3589.75,7,21,2024
-8,22,SP,Monitor,1097.02,8,18,2024
-5,49,FO,Mouse,4888.31,9,21,2024
-8,19,RJ,Headset,2941.21,1,28,2025
-6,54,BH,Tablet,3696.59,9,26,2023
-11,27,CR,Monitor,3030.26,6,14,2023
-3,18,SA,Monitor,4742.03,7,28,2024
-8,33,CR,Tablet,3534.1,3,5,2024
-8,29,MA,Headset,2902.56,8,8,2023
-2,23,MA,Tablet,2400.74,2,20,2025
-3,41,FO,Smartphone,2835.95,9,8,2023
-8,51,RJ,Notebook,2213.92,8,9,2025
-12,68,CR,Tablet,2835.95,6,3,2023
-4,53,BH,Monitor,2835.95,1,4,2023
-8,44,SA,Smartphone,4034.89,1,21,2024
-6,20,BH,Notebook,3575.26,4,26,2023
-12,41,PA,Mouse,779.15,7,2,2023
-12,19,SA,Mouse,1418.0,10,27,2024
-10,22,BH,Tablet,2114.07,2,4,2024
-8,64,PA,Notebook,3272.49,6,21,2023
-6,24,SA,Mouse,3028.48,6,25,2025
-10,65,PA,Headset,3412.04,10,24,2023
-12,26,SA,Monitor,2799.15,5,12,2022
-2,44,RJ,Tablet,3632.58,3,24,2024
-5,70,BH,Mouse,711.41,9,13,2023
-7,67,SA,Monitor,2374.55,5,28,2024
-2,62,FO,Smartphone,3583.17,4,15,2025
-3,29,MA,Smartphone,742.11,5,10,2024
-9,22,CR,Notebook,1413.89,8,29,2023
-4,47,PA,Smartphone,4372.0,10,6,2024
-7,44,CR,Teclado,1514.97,6,6,2023
-2,68,MA,Smartphone,3692.95,6,11,2024
-3,20,FO,Tablet,3147.73,3,24,2025
-12,37,RJ,Monitor,1384.11,8,10,2023
-11,70,CR,Mouse,1370.74,7,12,2024
-10,34,FO,Mouse,4925.54,4,2,2024
-7,44,CR,Teclado,4831.14,7,5,2024
-11,36,PA,Notebook,1037.09,6,11,2023
-10,67,BH,Mouse,2835.95,6,3,2024
-5,44,PA,Smartphone,1689.08,7,7,2025
-5,35,BH,Monitor,4307.06,5,22,2025
-3,41,MA,Mouse,2835.95,8,11,2024
-10,43,BH,Mouse,4718.73,3,24,2023
-6,42,MA,Headset,2835.95,10,21,2025
-7,29,CR,Tablet,3185.96,3,15,2025
-4,49,MA,Mouse,3314.15,10,26,2023
-1,69,PA,Mouse,1855.2,4,11,2023
-4,69,MA,Smartphone,2975.72,2,18,2025
-2,45,MA,Smartphone,3684.57,5,27,2025
-3,56,MA,Smartphone,4806.44,4,18,2023
-7,29,RJ,Monitor,4038.16,9,27,2025
-2,38,SA,Tablet,2943.86,7,3,2025
-5,38,FO,Mouse,2072.31,7,11,2025
-4,37,FO,Teclado,3485.01,4,18,2024
-2,63,MA,Teclado,1821.08,3,13,2025
-5,62,MA,Tablet,3282.26,3,19,2025
-7,46,RJ,Monitor,3026.01,8,27,2025
-1,44,FO,Notebook,3421.85,1,22,2024
-11,40,CR,Teclado,2057.03,3,10,2023
-4,45,SP,Teclado,3390.19,7,25,2023
-7,68,MA,Tablet,1597.22,8,27,2024
-10,22,PA,Monitor,2835.95,3,25,2023
-4,43,SA,Monitor,2216.18,9,14,2024
-3,69,SP,Smartphone,1010.18,9,8,2024
-11,28,CR,Monitor,3757.89,6,29,2023
-9,27,RJ,Smartphone,2835.95,8,10,2023
-1,61,RJ,Mouse,3967.22,5,2,2024
-12,20,SA,Mouse,2789.31,5,9,2024
-7,33,CR,Headset,1833.95,9,9,2025
-8,41,PA,Monitor,1941.41,10,18,2024
-1,54,BH,Tablet,931.8,1,14,2025
-12,44,SA,Smartphone,3979.93,7,17,2023
-8,46,CR,Headset,3321.2,2,24,2023
-6,41,BH,Notebook,3332.82,3,17,2025
-8,22,FO,Notebook,3584.32,1,15,2025
-1,51,FO,Notebook,1425.11,4,19,2023
-1,38,RJ,Smartphone,4453.87,5,28,2023
-1,33,PA,Monitor,2458.57,8,27,2025
-10,19,FO,Smartphone,824.54,2,27,2023
-4,49,BH,Notebook,606.89,8,12,2024
-1,53,BH,Monitor,670.49,6,21,2023
-3,67,CR,Headset,1300.96,5,1,2023
-4,46,PA,Notebook,816.99,6,29,2023
-6,57,FO,Tablet,4599.44,6,8,2025
-5,49,PA,Monitor,2530.07,9,6,2024
-5,26,RJ,Smartphone,1923.82,9,31,2023
-11,46,FO,Mouse,1032.38,5,13,2023
-6,63,CR,Smartphone,2835.95,6,27,2025
-8,23,MA,Tablet,784.57,1,24,2024
-2,38,SP,Teclado,704.83,7,4,2024
-7,63,RJ,Smartphone,2109.65,2,29,2023
-1,52,MA,Mouse,1804.26,6,11,2023
-3,37,CR,Mouse,3229.55,10,1,2023
-6,63,PA,Mouse,4670.11,4,29,2024
-5,62,PA,Tablet,4199.55,10,10,2023
-8,68,MA,Notebook,2835.95,10,16,2024
-6,32,FO,Notebook,1489.4,9,7,2023
-9,30,BH,Smartphone,4085.47,3,3,2023
-6,33,MA,Monitor,1827.4,5,30,2025
-5,19,SP,Teclado,1841.25,6,8,2023
-12,54,MA,Smartphone,4844.14,6,6,2023
-11,69,BH,Mouse,3415.73,9,29,2024
-3,26,SP,Notebook,550.18,8,5,2024
-7,23,PA,Mouse,1136.18,8,18,2025
-8,43,BH,Monitor,2835.95,2,8,2023
-6,64,FO,Mouse,2273.37,7,17,2025
-4,44,FO,Tablet,883.07,10,27,2023
-10,70,CR,Notebook,3836.44,5,21,2024
-6,26,CR,Tablet,1452.82,8,10,2025
-1,59,BH,Teclado,4331.56,3,4,2023
-1,47,FO,Teclado,1327.97,3,19,2025
-12,40,SA,Headset,1637.34,6,19,2022
-3,67,RJ,Monitor,3519.4,7,15,2024
-5,55,SP,Notebook,744.75,10,21,2025
-5,26,RJ,Tablet,4955.34,10,17,2025
-8,21,SA,Tablet,3401.04,7,17,2023
-1,51,MA,Tablet,3522.58,2,4,2025
-3,28,CR,Smartphone,1388.38,2,2,2024
-7,63,PA,Smartphone,4781.93,3,30,2024
-2,51,MA,Teclado,3520.83,6,15,2025
-2,23,PA,Headset,1783.12,4,12,2025
-3,58,RJ,Mouse,2835.95,6,8,2024
-10,35,CR,Teclado,2686.38,6,26,2023
-12,37,BH,Headset,3467.4,5,17,2024
-1,23,BH,Teclado,1185.78,5,23,2024
-11,28,BH,Tablet,4134.65,10,27,2023
-1,55,SP,Smartphone,1258.88,7,1,2023
-2,60,BH,Teclado,4035.47,5,26,2025
-2,56,SA,Monitor,3383.77,8,4,2024
-7,54,BH,Teclado,2117.69,6,23,2023
-2,44,MA,Monitor,1992.03,10,4,2024
-6,23,RJ,Mouse,2504.11,9,29,2024
-7,44,BH,Tablet,2691.37,8,26,2023
-5,54,PA,Smartphone,34049.8,7,12,2025
-7,31,PA,Teclado,1762.77,3,6,2023
-11,44,BH,Monitor,4510.84,3,14,2023
-1,19,RJ,Mouse,3800.95,1,16,2024
-8,58,FO,Smartphone,3773.41,3,27,2024
-10,59,SP,Headset,4323.14,4,8,2023
-5,48,FO,Tablet,4156.89,5,16,2024
-9,69,SA,Teclado,3961.4,2,9,2023
-10,37,FO,Teclado,664.95,4,17,2023
-6,62,SA,Tablet,4522.94,3,17,2024
-3,46,RJ,Smartphone,3442.59,7,8,2023
-5,47,RJ,Smartphone,2266.24,2,14,2025
-3,56,SP,Teclado,3153.2,2,11,2025
-6,63,CR,Notebook,1102.47,2,9,2023
-2,40,PA,Teclado,907.49,8,25,2025
-2,26,BH,Monitor,547.66,9,12,2024
-7,50,RJ,Headset,4838.0,1,13,2024
-3,38,RJ,Mouse,3578.73,1,30,2024
-9,25,SA,Mouse,1131.67,7,17,2024
-10,33,SP,Monitor,3048.61,9,25,2023
-3,21,PA,Notebook,4424.88,2,20,2025
-2,42,PA,Smartphone,3794.02,2,29,2024
-12,44,PA,Monitor,681.89,5,23,2023
-6,28,BH,Tablet,1542.87,10,1,2024
-1,54,FO,Mouse,1553.08,3,16,2023
-9,30,SA,Monitor,2830.48,2,2,2024
-2,49,BH,Smartphone,2246.42,7,16,2023
-10,47,PA,Teclado,4466.98,5,10,2024
-2,37,RJ,Monitor,2835.95,4,12,2024
-9,23,PA,Notebook,964.51,4,30,2024
-4,50,SA,Headset,3351.05,5,16,2023
-8,33,RJ,Smartphone,3838.59,8,13,2024
-7,40,RJ,Tablet,3065.72,3,2,2024
-7,44,SP,Teclado,2203.33,3,8,2023
-11,56,BH,Notebook,4542.02,9,19,2023
-6,59,BH,Smartphone,1632.14,3,14,2024
-5,36,BH,Tablet,1503.05,1,6,2023
-8,24,CR,Tablet,4177.57,1,16,2023
-10,34,FO,Smartphone,4066.96,6,1,2024
-12,66,BH,Teclado,529.69,6,14,2023
-12,20,FO,Notebook,2479.54,8,25,2024
-1,54,RJ,Mouse,2815.44,8,30,2024
-2,41,SP,Teclado,1176.08,9,17,2024
-1,22,PA,Teclado,3209.09,5,21,2025
-8,46,RJ,Teclado,3474.99,9,9,2024
-2,25,BH,Headset,31440.9,8,1,2024
+,PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+0,892,3,"Kelly, Mr. James",0,34,0,0,330911,7.8292,2
+1,893,3,"Wilkes, Mrs. James (Ellen Needs)",1,47,1,0,363272,7.0,0
+2,894,2,"Myles, Mr. Thomas Francis",0,62,0,0,240276,9.6875,2
+3,895,3,"Wirz, Mr. Albert",0,27,0,0,315154,8.6625,0
+4,896,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1,22,1,1,3101298,12.2875,0
+5,897,3,"Svensson, Mr. Johan Cervin",0,14,0,0,7538,9.225,0
+6,898,3,"Connolly, Miss. Kate",1,30,0,0,330972,7.6292,2
+7,899,2,"Caldwell, Mr. Albert Francis",0,26,1,1,248738,29.0,0
+8,900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",1,18,0,0,2657,7.2292,1
+9,901,3,"Davies, Mr. John Samuel",0,21,2,0,A/4 48871,24.15,0
+10,902,3,"Ilieff, Mr. Ylio",0,27,0,0,349220,7.8958,0
+11,903,1,"Jones, Mr. Charles Cresson",0,46,0,0,694,26.0,0
+12,904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",1,23,1,0,21228,82.2667,0
+13,905,2,"Howard, Mr. Benjamin",0,63,1,0,24065,26.0,0
+14,906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",1,47,1,0,W.E.P. 5734,61.175,0
+15,907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",1,24,1,0,SC/PARIS 2167,27.7208,1
+16,908,2,"Keane, Mr. Daniel",0,35,0,0,233734,12.35,2
+17,909,3,"Assaf, Mr. Gerios",0,21,0,0,2692,7.225,1
+18,910,3,"Ilmakangas, Miss. Ida Livija",1,27,1,0,STON/O2. 3101270,7.925,0
+19,911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",1,45,0,0,2696,7.225,1
+20,912,1,"Rothschild, Mr. Martin",0,55,1,0,PC 17603,59.4,1
+21,913,3,"Olsen, Master. Artur Karl",0,9,0,1,C 17368,3.1708,0
+22,914,1,"Flegenheim, Mrs. Alfred (Antoinette)",1,27,0,0,PC 17598,31.6833,0
+23,915,1,"Williams, Mr. Richard Norris II",0,21,0,1,PC 17597,61.3792,1
+24,916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1,48,1,3,PC 17608,262.375,1
+25,917,3,"Robins, Mr. Alexander A",0,50,1,0,A/5. 3337,14.5,0
+26,918,1,"Ostby, Miss. Helene Ragnhild",1,22,0,1,113509,61.9792,1
+27,919,3,"Daher, Mr. Shedid",0,22,0,0,2698,7.225,1
+28,920,1,"Brady, Mr. John Bertram",0,41,0,0,113054,30.5,0
+29,921,3,"Samaan, Mr. Elias",0,27,2,0,2662,21.6792,1
+30,922,2,"Louch, Mr. Charles Alexander",0,50,1,0,SC/AH 3085,26.0,0
+31,923,2,"Jefferys, Mr. Clifford Thomas",0,24,2,0,C.A. 31029,31.5,0
+32,924,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",1,33,1,2,C.A. 2315,20.575,0
+33,925,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",1,27,1,2,W./C. 6607,23.45,0
+34,926,1,"Mock, Mr. Philipp Edmund",0,30,1,0,13236,57.75,1
+35,927,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",0,18,0,0,2682,7.2292,1
+36,928,3,"Roth, Miss. Sarah A",1,27,0,0,342712,8.05,0
+37,929,3,"Cacic, Miss. Manda",1,21,0,0,315087,8.6625,0
+38,930,3,"Sap, Mr. Julius",0,25,0,0,345768,9.5,0
+39,931,3,"Hee, Mr. Ling",0,27,0,0,1601,56.4958,0
+40,932,3,"Karun, Mr. Franz",0,39,0,1,349256,13.4167,1
+41,933,1,"Franklin, Mr. Thomas Parham",0,27,0,0,113778,26.55,0
+42,934,3,"Goldsmith, Mr. Nathan",0,41,0,0,SOTON/O.Q. 3101263,7.85,0
+43,935,2,"Corbett, Mrs. Walter H (Irene Colvin)",1,30,0,0,237249,13.0,0
+44,936,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",1,45,1,0,11753,52.5542,0
+45,937,3,"Peltomaki, Mr. Nikolai Johannes",0,25,0,0,STON/O 2. 3101291,7.925,0
+46,938,1,"Chevre, Mr. Paul Romaine",0,45,0,0,PC 17594,29.7,1
+47,939,3,"Shaughnessy, Mr. Patrick",0,27,0,0,370374,7.75,2
+48,940,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",1,60,0,0,11813,76.2917,1
+49,941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",1,36,0,2,C.A. 37671,15.9,0
+50,942,1,"Smith, Mr. Lucien Philip",0,24,1,0,13695,60.0,0
+51,943,2,"Pulbaum, Mr. Franz",0,27,0,0,SC/PARIS 2168,15.0333,1
+52,944,2,"Hocking, Miss. Ellen Nellie""""",1,20,2,1,29105,23.0,0
+53,945,1,"Fortune, Miss. Ethel Flora",1,28,3,2,19950,263.0,0
+54,946,2,"Mangiavacchi, Mr. Serafino Emilio",0,27,0,0,SC/A.3 2861,15.5792,1
+55,947,3,"Rice, Master. Albert",0,10,4,1,382652,29.125,2
+56,948,3,"Cor, Mr. Bartol",0,35,0,0,349230,7.8958,0
+57,949,3,"Abelseth, Mr. Olaus Jorgensen",0,25,0,0,348122,7.65,0
+58,950,3,"Davison, Mr. Thomas Henry",0,27,1,0,386525,16.1,0
+59,951,1,"Chaudanson, Miss. Victorine",1,36,0,0,PC 17608,262.375,1
+60,952,3,"Dika, Mr. Mirko",0,17,0,0,349232,7.8958,0
+61,953,2,"McCrae, Mr. Arthur Gordon",0,32,0,0,237216,13.5,0
+62,954,3,"Bjorklund, Mr. Ernst Herbert",0,18,0,0,347090,7.75,0
+63,955,3,"Bradley, Miss. Bridget Delia",1,22,0,0,334914,7.725,2
+64,956,1,"Ryerson, Master. John Borie",0,13,2,2,PC 17608,262.375,1
+65,957,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",1,27,0,0,F.C.C. 13534,21.0,0
+66,958,3,"Burns, Miss. Mary Delia",1,18,0,0,330963,7.8792,2
+67,959,1,"Moore, Mr. Clarence Bloomfield",0,47,0,0,113796,42.4,0
+68,960,1,"Tucker, Mr. Gilbert Milligan Jr",0,31,0,0,2543,28.5375,1
+69,961,1,"Fortune, Mrs. Mark (Mary McDougald)",1,60,1,4,19950,263.0,0
+70,962,3,"Mulvihill, Miss. Bertha E",1,24,0,0,382653,7.75,2
+71,963,3,"Minkoff, Mr. Lazar",0,21,0,0,349211,7.8958,0
+72,964,3,"Nieminen, Miss. Manta Josefina",1,29,0,0,3101297,7.925,0
+73,965,1,"Ovies y Rodriguez, Mr. Servando",0,28,0,0,PC 17562,27.7208,1
+74,966,1,"Geiger, Miss. Amalie",1,35,0,0,113503,211.5,1
+75,967,1,"Keeping, Mr. Edwin",0,32,0,0,113503,211.5,1
+76,968,3,"Miles, Mr. Frank",0,27,0,0,359306,8.05,0
+77,969,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",1,55,2,0,11770,25.7,0
+78,970,2,"Aldworth, Mr. Charles Augustus",0,30,0,0,248744,13.0,0
+79,971,3,"Doyle, Miss. Elizabeth",1,24,0,0,368702,7.75,2
+80,972,3,"Boulos, Master. Akar",0,6,1,1,2678,15.2458,1
+81,973,1,"Straus, Mr. Isidor",0,67,1,0,PC 17483,221.7792,0
+82,974,1,"Case, Mr. Howard Brown",0,49,0,0,19924,26.0,0
+83,975,3,"Demetri, Mr. Marinko",0,27,0,0,349238,7.8958,0
+84,976,2,"Lamb, Mr. John Joseph",0,27,0,0,240261,10.7083,2
+85,977,3,"Khalil, Mr. Betros",0,27,1,0,2660,14.4542,1
+86,978,3,"Barry, Miss. Julia",1,27,0,0,330844,7.8792,2
+87,979,3,"Badman, Miss. Emily Louisa",1,18,0,0,A/4 31416,8.05,0
+88,980,3,"O'Donoghue, Ms. Bridget",1,27,0,0,364856,7.75,2
+89,981,2,"Wells, Master. Ralph Lester",0,2,1,1,29103,23.0,0
+90,982,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",1,22,1,0,347072,13.9,0
+91,983,3,"Pedersen, Mr. Olaf",0,27,0,0,345498,7.775,0
+92,984,1,"Davidson, Mrs. Thornton (Orian Hays)",1,27,1,2,F.C. 12750,52.0,0
+93,985,3,"Guest, Mr. Robert",0,27,0,0,376563,8.05,0
+94,986,1,"Birnbaum, Mr. Jakob",0,25,0,0,13905,26.0,1
+95,987,3,"Tenglin, Mr. Gunnar Isidor",0,25,0,0,350033,7.7958,0
+96,988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",1,76,1,0,19877,78.85,0
+97,989,3,"Makinen, Mr. Kalle Edvard",0,29,0,0,STON/O 2. 3101268,7.925,0
+98,990,3,"Braf, Miss. Elin Ester Maria",1,20,0,0,347471,7.8542,0
+99,991,3,"Nancarrow, Mr. William Henry",0,33,0,0,A./5. 3338,8.05,0
+100,992,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",1,43,1,0,11778,55.4417,1
+101,993,2,"Weisz, Mr. Leopold",0,27,1,0,228414,26.0,0
+102,994,3,"Foley, Mr. William",0,27,0,0,365235,7.75,2
+103,995,3,"Johansson Palmquist, Mr. Oskar Leander",0,26,0,0,347070,7.775,0
+104,996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",1,16,1,1,2625,8.5167,1
+105,997,3,"Holthen, Mr. Johan Martin",0,28,0,0,C 4001,22.525,0
+106,998,3,"Buckley, Mr. Daniel",0,21,0,0,330920,7.8208,2
+107,999,3,"Ryan, Mr. Edward",0,27,0,0,383162,7.75,2
+108,1000,3,"Willer, Mr. Aaron (Abi Weller"")""",0,27,0,0,3410,8.7125,0
+109,1001,2,"Swane, Mr. George",0,18,0,0,248734,13.0,0
+110,1002,2,"Stanton, Mr. Samuel Ward",0,41,0,0,237734,15.0458,1
+111,1003,3,"Shine, Miss. Ellen Natalia",1,27,0,0,330968,7.7792,2
+112,1004,1,"Evans, Miss. Edith Corse",1,36,0,0,PC 17531,31.6792,1
+113,1005,3,"Buckley, Miss. Katherine",1,18,0,0,329944,7.2833,2
+114,1006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",1,63,1,0,PC 17483,221.7792,0
+115,1007,3,"Chronopoulos, Mr. Demetrios",0,18,1,0,2680,14.4542,1
+116,1008,3,"Thomas, Mr. John",0,27,0,0,2681,6.4375,1
+117,1009,3,"Sandstrom, Miss. Beatrice Irene",1,1,1,1,PP 9549,16.7,0
+118,1010,1,"Beattie, Mr. Thomson",0,36,0,0,13050,75.2417,1
+119,1011,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",1,29,1,0,SC/AH 29037,26.0,0
+120,1012,2,"Watt, Miss. Bertha J",1,12,0,0,C.A. 33595,15.75,0
+121,1013,3,"Kiernan, Mr. John",0,27,1,0,367227,7.75,2
+122,1014,1,"Schabert, Mrs. Paul (Emma Mock)",1,35,1,0,13236,57.75,1
+123,1015,3,"Carver, Mr. Alfred John",0,28,0,0,392095,7.25,0
+124,1016,3,"Kennedy, Mr. John",0,27,0,0,368783,7.75,2
+125,1017,3,"Cribb, Miss. Laura Alice",1,17,0,1,371362,16.1,0
+126,1018,3,"Brobeck, Mr. Karl Rudolf",0,22,0,0,350045,7.7958,0
+127,1019,3,"McCoy, Miss. Alicia",1,27,2,0,367226,23.25,2
+128,1020,2,"Bowenur, Mr. Solomon",0,42,0,0,211535,13.0,0
+129,1021,3,"Petersen, Mr. Marius",0,24,0,0,342441,8.05,0
+130,1022,3,"Spinner, Mr. Henry John",0,32,0,0,STON/OQ. 369943,8.05,0
+131,1023,1,"Gracie, Col. Archibald IV",0,53,0,0,113780,28.5,1
+132,1024,3,"Lefebre, Mrs. Frank (Frances)",1,27,0,4,4133,25.4667,0
+133,1025,3,"Thomas, Mr. Charles P",0,27,1,0,2621,6.4375,1
+134,1026,3,"Dintcheff, Mr. Valtcho",0,43,0,0,349226,7.8958,0
+135,1027,3,"Carlsson, Mr. Carl Robert",0,24,0,0,350409,7.8542,0
+136,1028,3,"Zakarian, Mr. Mapriededer",0,26,0,0,2656,7.225,1
+137,1029,2,"Schmidt, Mr. August",0,26,0,0,248659,13.0,0
+138,1030,3,"Drapkin, Miss. Jennie",1,23,0,0,SOTON/OQ 392083,8.05,0
+139,1031,3,"Goodwin, Mr. Charles Frederick",0,40,1,6,CA 2144,46.9,0
+140,1032,3,"Goodwin, Miss. Jessie Allis",1,10,5,2,CA 2144,46.9,0
+141,1033,1,"Daniels, Miss. Sarah",1,33,0,0,113781,151.55,0
+142,1034,1,"Ryerson, Mr. Arthur Larned",0,61,1,3,PC 17608,262.375,1
+143,1035,2,"Beauchamp, Mr. Henry James",0,28,0,0,244358,26.0,0
+144,1036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",0,42,0,0,17475,26.55,0
+145,1037,3,"Vander Planke, Mr. Julius",0,31,3,0,345763,18.0,0
+146,1038,1,"Hilliard, Mr. Herbert Henry",0,27,0,0,17463,51.8625,0
+147,1039,3,"Davies, Mr. Evan",0,22,0,0,SC/A4 23568,8.05,0
+148,1040,1,"Crafton, Mr. John Bertram",0,27,0,0,113791,26.55,0
+149,1041,2,"Lahtinen, Rev. William",0,30,1,1,250651,26.0,0
+150,1042,1,"Earnshaw, Mrs. Boulton (Olive Potter)",1,23,0,1,11767,83.1583,1
+151,1043,3,"Matinoff, Mr. Nicola",0,27,0,0,349255,7.8958,1
+152,1044,3,"Storey, Mr. Thomas",0,60,0,0,3701,,0
+153,1045,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",1,36,0,2,350405,12.1833,0
+154,1046,3,"Asplund, Master. Filip Oscar",0,13,4,2,347077,31.3875,0
+155,1047,3,"Duquemin, Mr. Joseph",0,24,0,0,S.O./P.P. 752,7.55,0
+156,1048,1,"Bird, Miss. Ellen",1,29,0,0,PC 17483,221.7792,0
+157,1049,3,"Lundin, Miss. Olga Elida",1,23,0,0,347469,7.8542,0
+158,1050,1,"Borebank, Mr. John James",0,42,0,0,110489,26.55,0
+159,1051,3,"Peacock, Mrs. Benjamin (Edith Nile)",1,26,0,2,SOTON/O.Q. 3101315,13.775,0
+160,1052,3,"Smyth, Miss. Julia",1,27,0,0,335432,7.7333,2
+161,1053,3,"Touma, Master. Georges Youssef",0,7,1,1,2650,15.2458,1
+162,1054,2,"Wright, Miss. Marion",1,26,0,0,220844,13.5,0
+163,1055,3,"Pearce, Mr. Ernest",0,27,0,0,343271,7.0,0
+164,1056,2,"Peruschitz, Rev. Joseph Maria",0,41,0,0,237393,13.0,0
+165,1057,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1,26,1,1,315153,22.025,0
+166,1058,1,"Brandeis, Mr. Emil",0,48,0,0,PC 17591,50.4958,1
+167,1059,3,"Ford, Mr. Edward Watson",0,18,2,2,W./C. 6608,34.375,0
+168,1060,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",1,27,0,0,17770,27.7208,1
+169,1061,3,"Hellstrom, Miss. Hilda Maria",1,22,0,0,7548,8.9625,0
+170,1062,3,"Lithman, Mr. Simon",0,27,0,0,S.O./P.P. 251,7.55,0
+171,1063,3,"Zakarian, Mr. Ortin",0,27,0,0,2670,7.225,1
+172,1064,3,"Dyker, Mr. Adolf Fredrik",0,23,1,0,347072,13.9,0
+173,1065,3,"Torfa, Mr. Assad",0,27,0,0,2673,7.2292,1
+174,1066,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",0,40,1,5,347077,31.3875,0
+175,1067,2,"Brown, Miss. Edith Eileen",1,15,0,2,29750,39.0,0
+176,1068,2,"Sincock, Miss. Maude",1,20,0,0,C.A. 33112,36.75,0
+177,1069,1,"Stengel, Mr. Charles Emil Henry",0,54,1,0,11778,55.4417,1
+178,1070,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",1,36,0,3,230136,39.0,0
+179,1071,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1,64,0,2,PC 17756,83.1583,1
+180,1072,2,"McCrie, Mr. James Matthew",0,30,0,0,233478,13.0,0
+181,1073,1,"Compton, Mr. Alexander Taylor Jr",0,37,1,1,PC 17756,83.1583,1
+182,1074,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",1,18,1,0,113773,53.1,0
+183,1075,3,"Lane, Mr. Patrick",0,27,0,0,7935,7.75,2
+184,1076,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1,27,1,1,PC 17558,247.5208,1
+185,1077,2,"Maybery, Mr. Frank Hubert",0,40,0,0,239059,16.0,0
+186,1078,2,"Phillips, Miss. Alice Frances Louisa",1,21,0,1,S.O./P.P. 2,21.0,0
+187,1079,3,"Davies, Mr. Joseph",0,17,2,0,A/4 48873,8.05,0
+188,1080,3,"Sage, Miss. Ada",1,27,8,2,CA. 2343,69.55,0
+189,1081,2,"Veal, Mr. James",0,40,0,0,28221,13.0,0
+190,1082,2,"Angle, Mr. William A",0,34,1,0,226875,26.0,0
+191,1083,1,"Salomon, Mr. Abraham L",0,27,0,0,111163,26.0,0
+192,1084,3,"van Billiard, Master. Walter John",0,11,1,1,A/5. 851,14.5,0
+193,1085,2,"Lingane, Mr. John",0,61,0,0,235509,12.35,2
+194,1086,2,"Drew, Master. Marshall Brines",0,8,0,2,28220,32.5,0
+195,1087,3,"Karlsson, Mr. Julius Konrad Eugen",0,33,0,0,347465,7.8542,0
+196,1088,1,"Spedden, Master. Robert Douglas",0,6,0,2,16966,134.5,1
+197,1089,3,"Nilsson, Miss. Berta Olivia",1,18,0,0,347066,7.775,0
+198,1090,2,"Baimbrigge, Mr. Charles Robert",0,23,0,0,C.A. 31030,10.5,0
+199,1091,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",1,27,0,0,65305,8.1125,0
+200,1092,3,"Murphy, Miss. Nora",1,27,0,0,36568,15.5,2
+201,1093,3,"Danbom, Master. Gilbert Sigvard Emanuel",0,0,0,2,347080,14.4,0
+202,1094,1,"Astor, Col. John Jacob",0,47,1,0,PC 17757,227.525,1
+203,1095,2,"Quick, Miss. Winifred Vera",1,8,1,1,26360,26.0,0
+204,1096,2,"Andrew, Mr. Frank Thomas",0,25,0,0,C.A. 34050,10.5,0
+205,1097,1,"Omont, Mr. Alfred Fernand",0,27,0,0,F.C. 12998,25.7417,1
+206,1098,3,"McGowan, Miss. Katherine",1,35,0,0,9232,7.75,2
+207,1099,2,"Collett, Mr. Sidney C Stuart",0,24,0,0,28034,10.5,0
+208,1100,1,"Rosenbaum, Miss. Edith Louise",1,33,0,0,PC 17613,27.7208,1
+209,1101,3,"Delalic, Mr. Redjo",0,25,0,0,349250,7.8958,0
+210,1102,3,"Andersen, Mr. Albert Karvin",0,32,0,0,C 4001,22.525,0
+211,1103,3,"Finoli, Mr. Luigi",0,27,0,0,SOTON/O.Q. 3101308,7.05,0
+212,1104,2,"Deacon, Mr. Percy William",0,17,0,0,S.O.C. 14879,73.5,0
+213,1105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",1,60,1,0,24065,26.0,0
+214,1106,3,"Andersson, Miss. Ida Augusta Margareta",1,38,4,2,347091,7.775,0
+215,1107,1,"Head, Mr. Christopher",0,42,0,0,113038,42.5,0
+216,1108,3,"Mahon, Miss. Bridget Delia",1,27,0,0,330924,7.8792,2
+217,1109,1,"Wick, Mr. George Dennick",0,57,1,1,36928,164.8667,0
+218,1110,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",1,50,1,1,113503,211.5,1
+219,1111,3,"Thomson, Mr. Alexander Morrison",0,27,0,0,32302,8.05,0
+220,1112,2,"Duran y More, Miss. Florentina",1,30,1,0,SC/PARIS 2148,13.8583,1
+221,1113,3,"Reynolds, Mr. Harold J",0,21,0,0,342684,8.05,0
+222,1114,2,"Cook, Mrs. (Selena Rogers)",1,22,0,0,W./C. 14266,10.5,0
+223,1115,3,"Karlsson, Mr. Einar Gervasius",0,21,0,0,350053,7.7958,0
+224,1116,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",1,53,0,0,PC 17606,27.4458,1
+225,1117,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",1,27,0,2,2661,15.2458,1
+226,1118,3,"Asplund, Mr. Johan Charles",0,23,0,0,350054,7.7958,0
+227,1119,3,"McNeill, Miss. Bridget",1,27,0,0,370368,7.75,2
+228,1120,3,"Everett, Mr. Thomas James",0,40,0,0,C.A. 6212,15.1,0
+229,1121,2,"Hocking, Mr. Samuel James Metcalfe",0,36,0,0,242963,13.0,0
+230,1122,2,"Sweet, Mr. George Frederick",0,14,0,0,220845,65.0,0
+231,1123,1,"Willard, Miss. Constance",1,21,0,0,113795,26.55,0
+232,1124,3,"Wiklund, Mr. Karl Johan",0,21,1,0,3101266,6.4958,0
+233,1125,3,"Linehan, Mr. Michael",0,27,0,0,330971,7.8792,2
+234,1126,1,"Cumings, Mr. John Bradley",0,39,1,0,PC 17599,71.2833,1
+235,1127,3,"Vendel, Mr. Olof Edvin",0,20,0,0,350416,7.8542,0
+236,1128,1,"Warren, Mr. Frank Manley",0,64,1,0,110813,75.25,1
+237,1129,3,"Baccos, Mr. Raffull",0,20,0,0,2679,7.225,1
+238,1130,2,"Hiltunen, Miss. Marta",1,18,1,1,250650,13.0,0
+239,1131,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",1,48,1,0,PC 17761,106.425,1
+240,1132,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",1,55,0,0,112377,27.7208,1
+241,1133,2,"Christy, Mrs. (Alice Frances)",1,45,0,2,237789,30.0,0
+242,1134,1,"Spedden, Mr. Frederic Oakley",0,45,1,1,16966,134.5,1
+243,1135,3,"Hyman, Mr. Abraham",0,27,0,0,3470,7.8875,0
+244,1136,3,"Johnston, Master. William Arthur Willie""""",0,27,1,2,W./C. 6607,23.45,0
+245,1137,1,"Kenyon, Mr. Frederick R",0,41,1,0,17464,51.8625,0
+246,1138,2,"Karnes, Mrs. J Frank (Claire Bennett)",1,22,0,0,F.C.C. 13534,21.0,0
+247,1139,2,"Drew, Mr. James Vivian",0,42,1,1,28220,32.5,0
+248,1140,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",1,29,1,0,26707,26.0,0
+249,1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1,27,1,0,2660,14.4542,1
+250,1142,2,"West, Miss. Barbara J",1,0,1,2,C.A. 34651,27.75,0
+251,1143,3,"Abrahamsson, Mr. Abraham August Johannes",0,20,0,0,SOTON/O2 3101284,7.925,0
+252,1144,1,"Clark, Mr. Walter Miller",0,27,1,0,13508,136.7792,1
+253,1145,3,"Salander, Mr. Karl Johan",0,24,0,0,7266,9.325,0
+254,1146,3,"Wenzel, Mr. Linhart",0,32,0,0,345775,9.5,0
+255,1147,3,"MacKay, Mr. George William",0,27,0,0,C.A. 42795,7.55,0
+256,1148,3,"Mahon, Mr. John",0,27,0,0,AQ/4 3130,7.75,2
+257,1149,3,"Niklasson, Mr. Samuel",0,28,0,0,363611,8.05,0
+258,1150,2,"Bentham, Miss. Lilian W",1,19,0,0,28404,13.0,0
+259,1151,3,"Midtsjo, Mr. Karl Albert",0,21,0,0,345501,7.775,0
+260,1152,3,"de Messemaeker, Mr. Guillaume Joseph",0,36,1,0,345572,17.4,0
+261,1153,3,"Nilsson, Mr. August Ferdinand",0,21,0,0,350410,7.8542,0
+262,1154,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",1,29,0,2,29103,23.0,0
+263,1155,3,"Klasen, Miss. Gertrud Emilia",1,1,1,1,350405,12.1833,0
+264,1156,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",0,30,0,0,C.A. 34644,12.7375,1
+265,1157,3,"Lyntakoff, Mr. Stanko",0,27,0,0,349235,7.8958,0
+266,1158,1,"Chisholm, Mr. Roderick Robert Crispin",0,27,0,0,112051,0.0,0
+267,1159,3,"Warren, Mr. Charles William",0,27,0,0,C.A. 49867,7.55,0
+268,1160,3,"Howard, Miss. May Elizabeth",1,27,0,0,A. 2. 39186,8.05,0
+269,1161,3,"Pokrnic, Mr. Mate",0,17,0,0,315095,8.6625,0
+270,1162,1,"McCaffry, Mr. Thomas Francis",0,46,0,0,13050,75.2417,1
+271,1163,3,"Fox, Mr. Patrick",0,27,0,0,368573,7.75,2
+272,1164,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",1,26,1,0,13508,136.7792,1
+273,1165,3,"Lennon, Miss. Mary",1,27,1,0,370371,15.5,2
+274,1166,3,"Saade, Mr. Jean Nassr",0,27,0,0,2676,7.225,1
+275,1167,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",1,20,1,0,236853,26.0,0
+276,1168,2,"Parker, Mr. Clifford Richard",0,28,0,0,SC 14888,10.5,0
+277,1169,2,"Faunthorpe, Mr. Harry",0,40,1,0,2926,26.0,0
+278,1170,2,"Ware, Mr. John James",0,30,1,0,CA 31352,21.0,0
+279,1171,2,"Oxenham, Mr. Percy Thomas",0,22,0,0,W./C. 14260,10.5,0
+280,1172,3,"Oreskovic, Miss. Jelka",1,23,0,0,315085,8.6625,0
+281,1173,3,"Peacock, Master. Alfred Edward",0,0,1,1,SOTON/O.Q. 3101315,13.775,0
+282,1174,3,"Fleming, Miss. Honora",1,27,0,0,364859,7.75,2
+283,1175,3,"Touma, Miss. Maria Youssef",1,9,1,1,2650,15.2458,1
+284,1176,3,"Rosblom, Miss. Salli Helena",1,2,1,1,370129,20.2125,0
+285,1177,3,"Dennis, Mr. William",0,36,0,0,A/5 21175,7.25,0
+286,1178,3,"Franklin, Mr. Charles (Charles Fardon)",0,27,0,0,SOTON/O.Q. 3101314,7.25,0
+287,1179,1,"Snyder, Mr. John Pillsbury",0,24,1,0,21228,82.2667,0
+288,1180,3,"Mardirosian, Mr. Sarkis",0,27,0,0,2655,7.2292,1
+289,1181,3,"Ford, Mr. Arthur",0,27,0,0,A/5 1478,8.05,0
+290,1182,1,"Rheims, Mr. George Alexander Lucien",0,27,0,0,PC 17607,39.6,0
+291,1183,3,"Daly, Miss. Margaret Marcella Maggie""""",1,30,0,0,382650,6.95,2
+292,1184,3,"Nasr, Mr. Mustafa",0,27,0,0,2652,7.2292,1
+293,1185,1,"Dodge, Dr. Washington",0,53,1,1,33638,81.8583,0
+294,1186,3,"Wittevrongel, Mr. Camille",0,36,0,0,345771,9.5,0
+295,1187,3,"Angheloff, Mr. Minko",0,26,0,0,349202,7.8958,0
+296,1188,2,"Laroche, Miss. Louise",1,1,1,2,SC/Paris 2123,41.5792,1
+297,1189,3,"Samaan, Mr. Hanna",0,27,2,0,2662,21.6792,1
+298,1190,1,"Loring, Mr. Joseph Holland",0,30,0,0,113801,45.5,0
+299,1191,3,"Johansson, Mr. Nils",0,29,0,0,347467,7.8542,0
+300,1192,3,"Olsson, Mr. Oscar Wilhelm",0,32,0,0,347079,7.775,0
+301,1193,2,"Malachard, Mr. Noel",0,27,0,0,237735,15.0458,1
+302,1194,2,"Phillips, Mr. Escott Robert",0,43,0,1,S.O./P.P. 2,21.0,0
+303,1195,3,"Pokrnic, Mr. Tome",0,24,0,0,315092,8.6625,0
+304,1196,3,"McCarthy, Miss. Catherine Katie""""",1,27,0,0,383123,7.75,2
+305,1197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1,64,1,1,112901,26.55,0
+306,1198,1,"Allison, Mr. Hudson Joshua Creighton",0,30,1,2,113781,151.55,0
+307,1199,3,"Aks, Master. Philip Frank",0,0,0,1,392091,9.35,0
+308,1200,1,"Hays, Mr. Charles Melville",0,55,1,1,12749,93.5,0
+309,1201,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",1,45,1,0,350026,14.1083,0
+310,1202,3,"Cacic, Mr. Jego Grga",0,18,0,0,315091,8.6625,0
+311,1203,3,"Vartanian, Mr. David",0,22,0,0,2658,7.225,1
+312,1204,3,"Sadowitz, Mr. Harry",0,27,0,0,LP 1588,7.575,0
+313,1205,3,"Carr, Miss. Jeannie",1,37,0,0,368364,7.75,2
+314,1206,1,"White, Mrs. John Stuart (Ella Holmes)",1,55,0,0,PC 17760,135.6333,1
+315,1207,3,"Hagardon, Miss. Kate",1,17,0,0,AQ/3. 30631,7.7333,2
+316,1208,1,"Spencer, Mr. William Augustus",0,57,1,0,PC 17569,146.5208,1
+317,1209,2,"Rogers, Mr. Reginald Harry",0,19,0,0,28004,10.5,0
+318,1210,3,"Jonsson, Mr. Nils Hilding",0,27,0,0,350408,7.8542,0
+319,1211,2,"Jefferys, Mr. Ernest Wilfred",0,22,2,0,C.A. 31029,31.5,0
+320,1212,3,"Andersson, Mr. Johan Samuel",0,26,0,0,347075,7.775,0
+321,1213,3,"Krekorian, Mr. Neshan",0,25,0,0,2654,7.2292,1
+322,1214,2,"Nesson, Mr. Israel",0,26,0,0,244368,13.0,0
+323,1215,1,"Rowe, Mr. Alfred G",0,33,0,0,113790,26.55,0
+324,1216,1,"Kreuchen, Miss. Emilie",1,39,0,0,24160,211.3375,0
+325,1217,3,"Assam, Mr. Ali",0,23,0,0,SOTON/O.Q. 3101309,7.05,0
+326,1218,2,"Becker, Miss. Ruth Elizabeth",1,12,2,1,230136,39.0,0
+327,1219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",0,46,0,0,PC 17585,79.2,1
+328,1220,2,"Clarke, Mr. Charles Valentine",0,29,1,0,2003,26.0,0
+329,1221,2,"Enander, Mr. Ingvar",0,21,0,0,236854,13.0,0
+330,1222,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1,48,0,2,C.A. 33112,36.75,0
+331,1223,1,"Dulles, Mr. William Crothers",0,39,0,0,PC 17580,29.7,1
+332,1224,3,"Thomas, Mr. Tannous",0,27,0,0,2684,7.225,1
+333,1225,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1,19,1,1,2653,15.7417,1
+334,1226,3,"Cor, Mr. Ivan",0,27,0,0,349229,7.8958,0
+335,1227,1,"Maguire, Mr. John Edward",0,30,0,0,110469,26.0,0
+336,1228,2,"de Brito, Mr. Jose Joaquim",0,32,0,0,244360,13.0,0
+337,1229,3,"Elias, Mr. Joseph",0,39,0,2,2675,7.2292,1
+338,1230,2,"Denbury, Mr. Herbert",0,25,0,0,C.A. 31029,31.5,0
+339,1231,3,"Betros, Master. Seman",0,27,0,0,2622,7.2292,1
+340,1232,2,"Fillbrook, Mr. Joseph Charles",0,18,0,0,C.A. 15185,10.5,0
+341,1233,3,"Lundstrom, Mr. Thure Edvin",0,32,0,0,350403,7.5792,0
+342,1234,3,"Sage, Mr. John George",0,27,1,9,CA. 2343,69.55,0
+343,1235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1,58,0,1,PC 17755,512.3292,1
+344,1236,3,"van Billiard, Master. James William",0,27,1,1,A/5. 851,14.5,0
+345,1237,3,"Abelseth, Miss. Karen Marie",1,16,0,0,348125,7.65,0
+346,1238,2,"Botsford, Mr. William Hull",0,26,0,0,237670,13.0,0
+347,1239,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",1,38,0,0,2688,7.2292,1
+348,1240,2,"Giles, Mr. Ralph",0,24,0,0,248726,13.5,0
+349,1241,2,"Walcroft, Miss. Nellie",1,31,0,0,F.C.C. 13528,21.0,0
+350,1242,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",1,45,0,1,PC 17759,63.3583,1
+351,1243,2,"Stokes, Mr. Philip Joseph",0,25,0,0,F.C.C. 13540,10.5,0
+352,1244,2,"Dibden, Mr. William",0,18,0,0,S.O.C. 14879,73.5,0
+353,1245,2,"Herman, Mr. Samuel",0,49,1,2,220845,65.0,0
+354,1246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",1,0,1,2,C.A. 2315,20.575,0
+355,1247,1,"Julian, Mr. Henry Forbes",0,50,0,0,113044,26.0,0
+356,1248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",1,59,2,0,11769,51.4792,0
+357,1249,3,"Lockyer, Mr. Edward",0,27,0,0,1222,7.8792,0
+358,1250,3,"O'Keefe, Mr. Patrick",0,27,0,0,368402,7.75,2
+359,1251,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",1,30,1,0,349910,15.55,0
+360,1252,3,"Sage, Master. William Henry",0,14,8,2,CA. 2343,69.55,0
+361,1253,2,"Mallet, Mrs. Albert (Antoinette Magnin)",1,24,1,1,S.C./PARIS 2079,37.0042,1
+362,1254,2,"Ware, Mrs. John James (Florence Louise Long)",1,31,0,0,CA 31352,21.0,0
+363,1255,3,"Strilic, Mr. Ivan",0,27,0,0,315083,8.6625,0
+364,1256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",1,25,1,0,11765,55.4417,1
+365,1257,3,"Sage, Mrs. John (Annie Bullen)",1,27,1,9,CA. 2343,69.55,0
+366,1258,3,"Caram, Mr. Joseph",0,27,1,0,2689,14.4583,1
+367,1259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",1,22,0,0,3101295,39.6875,0
+368,1260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",1,45,0,1,112378,59.4,1
+369,1261,2,"Pallas y Castello, Mr. Emilio",0,29,0,0,SC/PARIS 2147,13.8583,1
+370,1262,2,"Giles, Mr. Edgar",0,21,1,0,28133,11.5,0
+371,1263,1,"Wilson, Miss. Helen Alice",1,31,0,0,16966,134.5,1
+372,1264,1,"Ismay, Mr. Joseph Bruce",0,49,0,0,112058,0.0,0
+373,1265,2,"Harbeck, Mr. William H",0,44,0,0,248746,13.0,0
+374,1266,1,"Dodge, Mrs. Washington (Ruth Vidaver)",1,54,1,1,33638,81.8583,0
+375,1267,1,"Bowen, Miss. Grace Scott",1,45,0,0,PC 17608,262.375,1
+376,1268,3,"Kink, Miss. Maria",1,22,2,0,315152,8.6625,0
+377,1269,2,"Cotterill, Mr. Henry Harry""""",0,21,0,0,29107,11.5,0
+378,1270,1,"Hipkins, Mr. William Edward",0,55,0,0,680,50.0,0
+379,1271,3,"Asplund, Master. Carl Edgar",0,5,4,2,347077,31.3875,0
+380,1272,3,"O'Connor, Mr. Patrick",0,27,0,0,366713,7.75,2
+381,1273,3,"Foley, Mr. Joseph",0,26,0,0,330910,7.8792,2
+382,1274,3,"Risien, Mrs. Samuel (Emma)",1,27,0,0,364498,14.5,0
+383,1275,3,"McNamee, Mrs. Neal (Eileen O'Leary)",1,19,1,0,376566,16.1,0
+384,1276,2,"Wheeler, Mr. Edwin Frederick""""",0,27,0,0,SC/PARIS 2159,12.875,0
+385,1277,2,"Herman, Miss. Kate",1,24,1,2,220845,65.0,0
+386,1278,3,"Aronsson, Mr. Ernst Axel Algot",0,24,0,0,349911,7.775,0
+387,1279,2,"Ashby, Mr. John",0,57,0,0,244346,13.0,0
+388,1280,3,"Canavan, Mr. Patrick",0,21,0,0,364858,7.75,2
+389,1281,3,"Palsson, Master. Paul Folke",0,6,3,1,349909,21.075,0
+390,1282,1,"Payne, Mr. Vivian Ponsonby",0,23,0,0,12749,93.5,0
+391,1283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1,51,0,1,PC 17592,39.4,0
+392,1284,3,"Abbott, Master. Eugene Joseph",0,13,0,2,C.A. 2673,20.25,0
+393,1285,2,"Gilbert, Mr. William",0,47,0,0,C.A. 30769,10.5,0
+394,1286,3,"Kink-Heilmann, Mr. Anton",0,29,3,1,315153,22.025,0
+395,1287,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1,18,1,0,13695,60.0,0
+396,1288,3,"Colbert, Mr. Patrick",0,24,0,0,371109,7.25,2
+397,1289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1,48,1,1,13567,79.2,1
+398,1290,3,"Larsson-Rondberg, Mr. Edvard A",0,22,0,0,347065,7.775,0
+399,1291,3,"Conlon, Mr. Thomas Henry",0,31,0,0,21332,7.7333,2
+400,1292,1,"Bonnell, Miss. Caroline",1,30,0,0,36928,164.8667,0
+401,1293,2,"Gale, Mr. Harry",0,38,1,0,28664,21.0,0
+402,1294,1,"Gibson, Miss. Dorothy Winifred",1,22,0,1,112378,59.4,1
+403,1295,1,"Carrau, Mr. Jose Pedro",0,17,0,0,113059,47.1,0
+404,1296,1,"Frauenthal, Mr. Isaac Gerald",0,43,1,0,17765,27.7208,1
+405,1297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",0,20,0,0,SC/PARIS 2166,13.8625,1
+406,1298,2,"Ware, Mr. William Jeffery",0,23,1,0,28666,10.5,0
+407,1299,1,"Widener, Mr. George Dunton",0,50,1,1,113503,211.5,1
+408,1300,3,"Riordan, Miss. Johanna Hannah""""",1,27,0,0,334915,7.7208,2
+409,1301,3,"Peacock, Miss. Treasteall",1,3,1,1,SOTON/O.Q. 3101315,13.775,0
+410,1302,3,"Naughton, Miss. Hannah",1,27,0,0,365237,7.75,2
+411,1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",1,37,1,0,19928,90.0,2
+412,1304,3,"Henriksson, Miss. Jenny Lovisa",1,28,0,0,347086,7.775,0
+413,1305,3,"Spector, Mr. Woolf",0,27,0,0,A.5. 3236,8.05,0
+414,1306,1,"Oliva y Ocana, Dona. Fermina",1,39,0,0,PC 17758,108.9,1
+415,1307,3,"Saether, Mr. Simon Sivertsen",0,38,0,0,SOTON/O.Q. 3101262,7.25,0
+416,1308,3,"Ware, Mr. Frederick",0,27,0,0,359309,8.05,0
+417,1309,3,"Peter, Master. Michael J",0,27,1,1,2668,22.3583,1
